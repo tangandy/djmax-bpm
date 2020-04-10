@@ -1,0 +1,113 @@
+{
+    "songs": [
+        {
+            "name": "Armored Phantom",
+            "artist": "ned",
+            "bpm": 151,
+            "length": 124,
+            "4k": "3, 7",
+            "5k": "6, 11",
+            "6k": "7, 9, 12",
+            "8k": "6, 11"
+        },
+
+        {
+            "name": "Far East Princess",
+            "artist": "Nauts",
+            "bpm": 102,
+            "length": 137,
+            "4k": "5, 7, 10",
+            "5k": "5, 10",
+            "6k": "3, 9, 10",
+            "8k": "5, 9"
+        },
+
+        {
+            "name": "Hello Pinky",
+            "artist": "NieN",
+            "bpm": 141,
+            "length": 130,
+            "4k": "5, 8",
+            "5k": "5, 10, SC",
+            "6k": "7, 11",
+            "8k": "6, 11, SC"
+        },
+
+        {
+            "name": "Neon 1989 (ESTi Remix)",
+            "artist": "OREO",
+            "bpm": 120,
+            "length": 147,
+            "4k": "4, 7",
+            "5k": "3, 7",
+            "6k": "4, 7",
+            "8k": "5, 9"
+        },
+        
+        {
+            "name": "Nightmare",
+            "artist": "M2U",
+            "bpm": 190,
+            "length": 127,
+            "4k": "9, 11",
+            "5k": "8, 13, 15, SC",
+            "6k": "8, 13, 15",
+            "8k": "8, 12, 15, SC"
+        },
+        
+        {
+            "name": "OBLIVION",
+            "artist": "ESTi",
+            "bpm": 141,
+            "length": 120,
+            "4k": "3, 6, 11",
+            "5k": "7, 11",
+            "6k": "3, 8, 11",
+            "8k": "6, 12"
+        },
+        
+        {
+            "name": "OBLIVION ~Rockin' Night Style~",
+            "artist": "NieN",
+            "bpm": 141,
+            "length": 117,
+            "4k": "3, 8, 12",
+            "5k": "4, 10, 13, SC",
+            "6k": "7, 9, 13",
+            "8k": "6, 10, 14, SC"
+        },
+        
+        {
+            "name": "POP/STARS",
+            "artist": "K/DA",
+            "bpm": 170,
+            "length": 202,
+            "4k": "5, 9, 12",
+            "5k": "5, 8, 12, SC",
+            "6k": "5, 8, 11, SC",
+            "8k": "5, 9, 13, SC"
+        },
+        
+        {
+            "name": "Running girl",
+            "artist": "Mycin.T",
+            "bpm": 170,
+            "length": 109,
+            "4k": "5, 7, SC",
+            "5k": "5, 9",
+            "6k": "4, 10, 12, SC",
+            "8k": "6, 10"
+        },
+        
+        {
+            "name": "Tok! Tok! Tok!",
+            "artist": "STARTRACK",
+            "bpm": 178,
+            "length": 141,
+            "4k": "4, 7",
+            "5k": "4, 7",
+            "6k": "4, 6, 10",
+            "8k": "5, 8, 11"
+        }
+    ]
+}
